@@ -1,5 +1,5 @@
 # Helm Chart Files and Explanations
-#️ Chart.yaml
+# Chart.yaml
 apiVersion: v2
 name: webappchart
 description: A Helm chart for MySQL and User Management Web App
